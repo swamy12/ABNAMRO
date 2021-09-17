@@ -1,3 +1,6 @@
 kib files data
 
 added some code from kibetls sprint1 branch
+
+
+this is checking for stash cmd
